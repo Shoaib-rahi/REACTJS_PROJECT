@@ -38,6 +38,7 @@ let data = [
     
 {data.map((item ,index) => (
     <Card data = {item} refrence = {ref}/>
+   
 ) )}
        
    
